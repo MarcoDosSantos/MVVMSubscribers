@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="write_name">Escribe tu nombre ...</string>
+    <string name="write_email">Escribe tu email ...</string>
+    <string name="save">Guardar</string>
+    <string name="clear_all">Borrar todos</string>
+</resources>
